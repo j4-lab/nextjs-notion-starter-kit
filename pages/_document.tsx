@@ -15,7 +15,7 @@ export default class MyDocument extends Document {
               sizes='32x32'
               href='favicon.png'
             />
-
+            <link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.4/dist/web/static/pretendard.css" />
             <link rel='manifest' href='/manifest.json' />
           </Head>
 
