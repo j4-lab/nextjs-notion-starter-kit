@@ -371,10 +371,10 @@
 }
 
 .notion-bookmark:hover {
-  //border-image: linear-gradient(90.68deg, #b439df 0.26%, #e5337e 102.37%);
-  //border-image-slice: 1;
-  border: solid;
-  border-color: #F1FA8C;
+  border-image: linear-gradient(90.68deg, #b439df 0.26%, #e5337e 102.37%);
+  border-image-slice: 1;
+  //border: solid;
+  //border-color: #F1FA8C;
 }
 
 .notion-block-ab9a258d6cf444f3bb40dc2600feae91 .notion-column {
